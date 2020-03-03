@@ -5,7 +5,7 @@ I am studying Front-End in a Full Stack course, in this module I am learning Boo
 
 To-Do List:
 
-* [X] - Create de HTML
+* [X] - Create the HTML
 * [ ] - Create a NavBar
 * [ ] - Create a Header
 * [ ] - Create testimonials part
