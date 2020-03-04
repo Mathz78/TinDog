@@ -6,6 +6,15 @@
     padding: 3% 15%;
 }
 
+.navbar-brand {
+    font-size: 3rem;
+}
+
+.navbar {
+    font-family: 'Ubuntu';
+    padding-left: 0;
+}
+
 h1 {
     font-family: 'Montserrat';
     font-weight: 900;
