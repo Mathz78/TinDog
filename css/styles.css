@@ -63,22 +63,29 @@ h1 {
 /* Features section */
 
 #features {
-    margin: 10%;
+    /* margin: 10%; */
+    padding: 7% 15%;
+}
+
+.feature-box {
+    text-align: center;
+    padding: 5%;
 }
 
 .feature-image {
     color: #ef8172;
-    font-size: 64px;
     text-align: center;
-    padding: 0 0 4% 0;
+    margin-bottom: 1rem;
+
+    /* padding: 0 0 4% 0; */
+    /* 
+    font-size: 64px;
+    Mudar o font-size também altera o tamanho do icone, pórem o site do icone também tem a classe .fa-4x
+    */
 }
 
 .feature-image:hover {
     color: red;
-}
-
-*, ::after, ::before {
-    text-align: center;
 }
 
 .h3-feature {
