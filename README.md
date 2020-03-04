@@ -7,7 +7,7 @@ To-Do List:
 
 * [X] - Create the HTML
 * [X] - Create a NavBar
-* [ ] - Create a Header
+* [X] - Create a Header
 * [ ] - Create testimonials part
 * [ ] - Create a download part
 * [ ] - Create the footer
