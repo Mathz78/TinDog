@@ -9,9 +9,12 @@ To-Do List:
 
 * [X] - Create the HTML
 * [X] - Create a NavBar
+    * [X] - Responsive to menu button when on ipad / iphone
 * [X] - Create a Header
+    * [X] - Download buttons
 * [X] - Create a features part
 * [ ] - Create testimonials part
+    * [] - Slide feature
 * [ ] - Create a download part
 * [ ] - Create the footer
 
