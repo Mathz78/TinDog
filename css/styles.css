@@ -110,14 +110,17 @@ h2 {
 #testimonials {
     background-color: #EF8172;
     color: #fff;
-    padding: 7% 15%;
     text-align: center;
 }
 
-.testimonial-image {
+.testimonials-images {
     width: 10%;
     border-radius: 100%;
     margin: 20px;
+}
+
+.carousel-item {
+    padding: 7% 15%;
 }
 
 #press {

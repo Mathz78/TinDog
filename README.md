@@ -13,8 +13,8 @@ To-Do List:
 * [X] - Create a Header
     * [X] - Download buttons
 * [X] - Create a features part
-* [ ] - Create testimonials part
-    * [ ] - Slide feature
+* [X] - Create testimonials part
+    * [X] - Slide feature
 * [ ] - Create a download part
 * [ ] - Create the footer
 
