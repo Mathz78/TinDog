@@ -14,7 +14,7 @@ To-Do List:
     * [X] - Download buttons
 * [X] - Create a features part
 * [ ] - Create testimonials part
-    * [] - Slide feature
+    * [ ] - Slide feature
 * [ ] - Create a download part
 * [ ] - Create the footer
 
