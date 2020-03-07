@@ -158,3 +158,38 @@ h2 {
 .pricing-column {
     padding: 3% 2%;
 }
+
+/* Call to action */
+
+#cta {
+    background-color: #ff4c68;
+    text-align: center;
+    color: #fff;
+    padding: 7% 15%;
+}
+
+#header-cta {
+    font-family: "Montserrat";
+    font-weight: bold;
+    font-size: 4rem;
+}
+
+/* Footer section*/
+
+#footer {
+    background-color: #fff;
+    font-weight: bold;
+    text-align: center;
+    padding: 7% 15%;
+    color: grey;
+}
+
+.icons-footer {
+    font-size: 28px;
+    color: black;
+    margin: 20px 10px;
+}
+
+.icons-footer:hover {
+    color: blue;
+}
